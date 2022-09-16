@@ -1,10 +1,10 @@
 import './App.css';
-import BookKeeper from './components/project/bookKepper';
+import TempControl from './components/project/tempControl';
 
 function App() {
   return (
     <div className="App">
-      <BookKeeper/>
+      <TempControl/>
     </div>
   );
 }
