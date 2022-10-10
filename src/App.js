@@ -1,10 +1,10 @@
 import './App.css';
-import RoutePractice from './components/route';
+import BlogSite from './components/project/urBlog';
 
 function App() {
   return (
     <div className="App">
-      <RoutePractice/>
+      <BlogSite/>
     </div>
   );
 }
