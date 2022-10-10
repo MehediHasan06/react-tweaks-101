@@ -1,10 +1,10 @@
 import './App.css';
-import TempControl from './components/project/tempControl';
+import RoutePractice from './components/route';
 
 function App() {
   return (
     <div className="App">
-      <TempControl/>
+      <RoutePractice/>
     </div>
   );
 }
